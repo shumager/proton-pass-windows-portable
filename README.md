@@ -1,5 +1,12 @@
 # Proton Pass — Windows Portable Console Toolkit (v1.9.3)
 
+[![GitHub release](https://img.shields.io/github/v/release/0scorp919/proton-pass-windows-portable?label=Release)](https://github.com/0scorp919/proton-pass-windows-portable/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/0scorp919/proton-pass-windows-portable/total?label=Downloads)](https://github.com/0scorp919/proton-pass-windows-portable/releases)
+
+UA: Портативний офлайн-інструмент для розшифрування експорту Proton Pass (PGP) на Windows  
+EN: Portable offline toolkit for decrypting Proton Pass PGP exports on Windows
+
 ## UA • Ключова ідея
 
 ### Для кого цей інструмент
