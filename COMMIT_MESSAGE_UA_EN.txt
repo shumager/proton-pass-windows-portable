@@ -1,0 +1,7 @@
+init: public release v1.9.3 (UA/EN docs, portable decryptor)
+
+UA: Перший публічний реліз v1.9.3. Двомовний README/CHANGELOG, приклади запуску, таблиця параметрів,
+FAQ, ліцензія MIT. Виправлено коментарі в BAT, збережено строгий self‑cleanup і ключ -KeepDocs.
+
+EN: First public release v1.9.3. Bilingual README/CHANGELOG, run examples, parameter table,
+FAQ, MIT license. Fixed BAT comments; preserved strict self‑cleanup and the -KeepDocs switch.
