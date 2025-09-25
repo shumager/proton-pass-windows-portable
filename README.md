@@ -101,7 +101,7 @@ decrypt_and_extract.bat -NoTranscript  :: не писати транскрипт
 ### Who this tool is for
 This tool is for Proton Pass users who keep local backups for emergencies. When you must quickly recover access from an encrypted export under pressure, it automates decryption, parsing, and export with minimal steps.
 Portable offline decryptor for Proton Pass PGP export on Windows 10/11 **with no installation**.
-After success the folder **self‑cleans**: by default only `data.txt` and your `ваш ZIP архів` remain.
+After success the folder **self‑cleans**: by default only `data.txt` and `ZIP file` remain.
 Use `-KeepDocs` to keep `README.md` and `CHANGELOG.md` as well.
 
 ### Technologies
